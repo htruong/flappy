@@ -1,6 +1,6 @@
 #HTML5 flappy bird
 
-play here: http://hyspace.io/flappy/
+play here: http://htruong.github.io/flappy/
 
 based on http://uralozden.com/flappy/
 
